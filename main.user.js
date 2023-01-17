@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         bgp.tools kagl Upgrades
 // @namespace    https://kagl.me/
-// @version      1.0.2-alpha1
+// @version      1.0.2
 // @grant        none
-// @updateURL    a
-// @downloadURL  a
+// @updateURL    https://github.com/keatonaglair/bgp.tool-kagl-Upgrades/raw/main/main.user.js
+// @downloadURL  https://github.com/keatonaglair/bgp.tool-kagl-Upgrades/raw/main/main.user.js
 // @match        https://bgp.tools/as/*
 // @include      https://bgp.tools/as/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bgp.tools
